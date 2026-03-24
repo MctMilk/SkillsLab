@@ -71,13 +71,13 @@ START
 
 | 技能 | 功能 | GitHub |
 |------|------|--------|
-| `legal-structural-analysis-mctmilk` | 法条结构拆解（第一步） | [链接](https://github.com/MctMilk/legal-skills-mctmilk/tree/main/legal-structural-analysis-mctmilk) |
-| `legal-concept-deep-dive-mctmilk` | 不确定法律概念深挖（第二步） | [链接](https://github.com/MctMilk/legal-skills-mctmilk/tree/main/legal-concept-deep-dive-mctmilk) |
-| `legal-system-mapper-mctmilk` | 法条体系定位（第三步） | [链接](https://github.com/MctMilk/legal-skills-mctmilk/tree/main/legal-system-mapper-mctmilk) |
-| `legal-evidence-mapping-mctmilk` | 证据清单映射（第四步） | [链接](https://github.com/MctMilk/legal-skills-mctmilk/tree/main/legal-evidence-mapping-mctmilk) |
-| `legal-debate-simulation-mctmilk` | 攻防模拟陪练（第五步） | [链接](https://github.com/MctMilk/legal-skills-mctmilk/tree/main/legal-debate-simulation-mctmilk) |
-| `legal-case-validator-mctmilk` | 类案验证（第六步） | [链接](https://github.com/MctMilk/legal-skills-mctmilk/tree/main/legal-case-validator-mctmilk) |
-| `legal-seven-step-workflow-mctmilk` | **七步法完整工作流（主技能）** | [链接](https://github.com/MctMilk/legal-skills-mctmilk/tree/main/legal-seven-step-workflow-mctmilk) |
+| `legal-structural-analysis-mctmilk` | 法条结构拆解（第一步） | [链接](https://github.com/MctMilk/SkillsLab/tree/main/legal-structural-analysis-mctmilk) |
+| `legal-concept-deep-dive-mctmilk` | 不确定法律概念深挖（第二步） | [链接](https://github.com/MctMilk/SkillsLab/tree/main/legal-concept-deep-dive-mctmilk) |
+| `legal-system-mapper-mctmilk` | 法条体系定位（第三步） | [链接](https://github.com/MctMilk/SkillsLab/tree/main/legal-system-mapper-mctmilk) |
+| `legal-evidence-mapping-mctmilk` | 证据清单映射（第四步） | [链接](https://github.com/MctMilk/SkillsLab/tree/main/legal-evidence-mapping-mctmilk) |
+| `legal-debate-simulation-mctmilk` | 攻防模拟陪练（第五步） | [链接](https://github.com/MctMilk/SkillsLab/tree/main/legal-debate-simulation-mctmilk) |
+| `legal-case-validator-mctmilk` | 类案验证（第六步） | [链接](https://github.com/MctMilk/SkillsLab/tree/main/legal-case-validator-mctmilk) |
+| `legal-seven-step-workflow-mctmilk` | **七步法完整工作流（主技能）** | [链接](https://github.com/MctMilk/SkillsLab/tree/main/legal-seven-step-workflow-mctmilk) |
 
 ## 创意来源
 
